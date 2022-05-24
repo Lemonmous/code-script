@@ -1,0 +1,905 @@
+{
+	"info": {
+		"_postman_id": "d3d995d4-c416-4c2f-a4e8-8e5b9431f825",
+		"name": "yftk.fun",
+		"description": "HAR To Postman Generated Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "yftk.fun/",
+			"item": [
+				{
+					"name": "cdn.jsdelivr.net/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/loading-1.gif",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": ":authority",
+								"value": "cdn.jsdelivr.net",
+								"disabled": true
+							},
+							{
+								"key": ":method",
+								"value": "GET",
+								"disabled": true
+							},
+							{
+								"key": ":path",
+								"value": "/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/loading-1.gif",
+								"disabled": true
+							},
+							{
+								"key": ":scheme",
+								"value": "https",
+								"disabled": true
+							},
+							{
+								"key": "accept",
+								"value": "image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+							},
+							{
+								"key": "accept-encoding",
+								"value": "gzip, deflate, br"
+							},
+							{
+								"key": "accept-language",
+								"value": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+							},
+							{
+								"key": "referer",
+								"value": "https://cdn.jsdelivr.net/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/layer.css?v=3.5.1"
+							},
+							{
+								"key": "sec-ch-ua",
+								"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+							},
+							{
+								"key": "sec-ch-ua-mobile",
+								"value": "?0"
+							},
+							{
+								"key": "sec-ch-ua-platform",
+								"value": "\"Windows\""
+							},
+							{
+								"key": "sec-fetch-dest",
+								"value": "image"
+							},
+							{
+								"key": "sec-fetch-mode",
+								"value": "no-cors"
+							},
+							{
+								"key": "sec-fetch-site",
+								"value": "cross-site"
+							},
+							{
+								"key": "user-agent",
+								"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+							}
+						],
+						"url": {
+							"raw": "{{baseURL1}}/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/loading-1.gif",
+							"host": [
+								"{{baseURL1}}"
+							],
+							"path": [
+								"gh",
+								"jinsom",
+								"LightSNS-CDN@1.6.86.14",
+								"extend",
+								"layui",
+								"css",
+								"modules",
+								"layer",
+								"default",
+								"loading-1.gif"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "successfully / 200",
+							"originalRequest": {
+								"method": "GET",
+								"header": [
+									{
+										"key": ":authority",
+										"value": "cdn.jsdelivr.net",
+										"disabled": true
+									},
+									{
+										"key": ":method",
+										"value": "GET",
+										"disabled": true
+									},
+									{
+										"key": ":path",
+										"value": "/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/loading-1.gif",
+										"disabled": true
+									},
+									{
+										"key": ":scheme",
+										"value": "https",
+										"disabled": true
+									},
+									{
+										"key": "accept",
+										"value": "image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+									},
+									{
+										"key": "accept-encoding",
+										"value": "gzip, deflate, br"
+									},
+									{
+										"key": "accept-language",
+										"value": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+									},
+									{
+										"key": "referer",
+										"value": "https://cdn.jsdelivr.net/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/layer.css?v=3.5.1"
+									},
+									{
+										"key": "sec-ch-ua",
+										"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+									},
+									{
+										"key": "sec-ch-ua-mobile",
+										"value": "?0"
+									},
+									{
+										"key": "sec-ch-ua-platform",
+										"value": "\"Windows\""
+									},
+									{
+										"key": "sec-fetch-dest",
+										"value": "image"
+									},
+									{
+										"key": "sec-fetch-mode",
+										"value": "no-cors"
+									},
+									{
+										"key": "sec-fetch-site",
+										"value": "cross-site"
+									},
+									{
+										"key": "user-agent",
+										"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL1}}/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/loading-1.gif",
+									"host": [
+										"{{baseURL1}}"
+									],
+									"path": [
+										"gh",
+										"jinsom",
+										"LightSNS-CDN@1.6.86.14",
+										"extend",
+										"layui",
+										"css",
+										"modules",
+										"layer",
+										"default",
+										"loading-1.gif"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "text",
+							"header": [
+								{
+									"key": "accept-ranges",
+									"value": "bytes"
+								},
+								{
+									"key": "access-control-allow-origin",
+									"value": "*"
+								},
+								{
+									"key": "access-control-expose-headers",
+									"value": "*"
+								},
+								{
+									"key": "age",
+									"value": "1007846"
+								},
+								{
+									"key": "alt-svc",
+									"value": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+								},
+								{
+									"key": "cache-control",
+									"value": "public, max-age=31536000, s-maxage=31536000, immutable"
+								},
+								{
+									"key": "content-length",
+									"value": "701"
+								},
+								{
+									"key": "content-type",
+									"value": "image/gif"
+								},
+								{
+									"key": "cross-origin-resource-policy",
+									"value": "cross-origin"
+								},
+								{
+									"key": "date",
+									"value": "Tue, 24 May 2022 04:55:04 GMT"
+								},
+								{
+									"key": "etag",
+									"value": "W/\"2bd-SeVKy/VnQhIZXlgYSOwNSQKCRI8\""
+								},
+								{
+									"key": "strict-transport-security",
+									"value": "max-age=31536000; includeSubDomains; preload"
+								},
+								{
+									"key": "timing-allow-origin",
+									"value": "*"
+								},
+								{
+									"key": "vary",
+									"value": "Accept-Encoding"
+								},
+								{
+									"key": "x-cache",
+									"value": "HIT, HIT"
+								},
+								{
+									"key": "x-content-type-options",
+									"value": "nosniff"
+								},
+								{
+									"key": "x-jsd-version",
+									"value": "1.6.86.14"
+								},
+								{
+									"key": "x-jsd-version-type",
+									"value": "version"
+								},
+								{
+									"key": "x-served-by",
+									"value": "cache-fra19164-FRA, cache-nrt18343-NRT"
+								}
+							],
+							"cookie": [],
+							"body": "image/gif content type is not supported in the response body"
+						}
+					]
+				},
+				{
+					"name": "yftk.fun/wp-content/themes/LightSNS/module/action/sign.php",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": ":authority",
+								"value": "yftk.fun",
+								"disabled": true
+							},
+							{
+								"key": ":method",
+								"value": "POST",
+								"disabled": true
+							},
+							{
+								"key": ":path",
+								"value": "/wp-content/themes/LightSNS/module/action/sign.php",
+								"disabled": true
+							},
+							{
+								"key": ":scheme",
+								"value": "https",
+								"disabled": true
+							},
+							{
+								"key": "accept",
+								"value": "application/json, text/javascript, */*; q=0.01"
+							},
+							{
+								"key": "accept-encoding",
+								"value": "gzip, deflate, br"
+							},
+							{
+								"key": "accept-language",
+								"value": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+							},
+							{
+								"key": "content-length",
+								"value": "23"
+							},
+							{
+								"key": "content-type",
+								"value": "application/x-www-form-urlencoded; charset=UTF-8"
+							},
+							{
+								"key": "origin",
+								"value": "https://yftk.fun"
+							},
+							{
+								"key": "referer",
+								"value": "https://yftk.fun/"
+							},
+							{
+								"key": "sec-ch-ua",
+								"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+							},
+							{
+								"key": "sec-ch-ua-mobile",
+								"value": "?0"
+							},
+							{
+								"key": "sec-ch-ua-platform",
+								"value": "\"Windows\""
+							},
+							{
+								"key": "sec-fetch-dest",
+								"value": "empty"
+							},
+							{
+								"key": "sec-fetch-mode",
+								"value": "cors"
+							},
+							{
+								"key": "sec-fetch-site",
+								"value": "same-origin"
+							},
+							{
+								"key": "user-agent",
+								"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+							},
+							{
+								"key": "x-requested-with",
+								"value": "XMLHttpRequest"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "sign",
+									"value": "1"
+								},
+								{
+									"key": "ticket",
+									"value": ""
+								},
+								{
+									"key": "randstr",
+									"value": ""
+								}
+							]
+						},
+						"url": {
+							"raw": "{{baseURL2}}/wp-content/themes/LightSNS/module/action/sign.php",
+							"host": [
+								"{{baseURL2}}"
+							],
+							"path": [
+								"wp-content",
+								"themes",
+								"LightSNS",
+								"module",
+								"action",
+								"sign.php"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "successfully / 200",
+							"originalRequest": {
+								"method": "POST",
+								"header": [
+									{
+										"key": ":authority",
+										"value": "yftk.fun",
+										"disabled": true
+									},
+									{
+										"key": ":method",
+										"value": "POST",
+										"disabled": true
+									},
+									{
+										"key": ":path",
+										"value": "/wp-content/themes/LightSNS/module/action/sign.php",
+										"disabled": true
+									},
+									{
+										"key": ":scheme",
+										"value": "https",
+										"disabled": true
+									},
+									{
+										"key": "accept",
+										"value": "application/json, text/javascript, */*; q=0.01"
+									},
+									{
+										"key": "accept-encoding",
+										"value": "gzip, deflate, br"
+									},
+									{
+										"key": "accept-language",
+										"value": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+									},
+									{
+										"key": "content-length",
+										"value": "23"
+									},
+									{
+										"key": "content-type",
+										"value": "application/x-www-form-urlencoded; charset=UTF-8"
+									},
+									{
+										"key": "origin",
+										"value": "https://yftk.fun"
+									},
+									{
+										"key": "referer",
+										"value": "https://yftk.fun/"
+									},
+									{
+										"key": "sec-ch-ua",
+										"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+									},
+									{
+										"key": "sec-ch-ua-mobile",
+										"value": "?0"
+									},
+									{
+										"key": "sec-ch-ua-platform",
+										"value": "\"Windows\""
+									},
+									{
+										"key": "sec-fetch-dest",
+										"value": "empty"
+									},
+									{
+										"key": "sec-fetch-mode",
+										"value": "cors"
+									},
+									{
+										"key": "sec-fetch-site",
+										"value": "same-origin"
+									},
+									{
+										"key": "user-agent",
+										"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+									},
+									{
+										"key": "x-requested-with",
+										"value": "XMLHttpRequest"
+									}
+								],
+								"body": {
+									"mode": "urlencoded",
+									"urlencoded": [
+										{
+											"key": "sign",
+											"value": "1"
+										},
+										{
+											"key": "ticket",
+											"value": ""
+										},
+										{
+											"key": "randstr",
+											"value": ""
+										}
+									]
+								},
+								"url": {
+									"raw": "{{baseURL2}}/wp-content/themes/LightSNS/module/action/sign.php",
+									"host": [
+										"{{baseURL2}}"
+									],
+									"path": [
+										"wp-content",
+										"themes",
+										"LightSNS",
+										"module",
+										"action",
+										"sign.php"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "content-type",
+									"value": "application/json"
+								},
+								{
+									"key": "date",
+									"value": "Tue, 24 May 2022 04:55:05 GMT"
+								},
+								{
+									"key": "server",
+									"value": "nginx"
+								},
+								{
+									"key": "strict-transport-security",
+									"value": "max-age=31536000"
+								}
+							],
+							"cookie": [],
+							"body": "{\n \"content\": \"<li><i class=\\\"jinsom-icon jinsom-zhifuchenggong\\\"></i>签到成功</li><li>累计签到197天</li>\",\n \"code\": 1,\n \"sign_c\": 197,\n \"msg\": \"签到成功\",\n \"text\": \"今日已签到\",\n \"text_mobile\": \"已签到\"\n}"
+						}
+					]
+				},
+				{
+					"name": "cdn.jsdelivr.net/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/icon.png",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": ":authority",
+								"value": "cdn.jsdelivr.net",
+								"disabled": true
+							},
+							{
+								"key": ":method",
+								"value": "GET",
+								"disabled": true
+							},
+							{
+								"key": ":path",
+								"value": "/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/icon.png",
+								"disabled": true
+							},
+							{
+								"key": ":scheme",
+								"value": "https",
+								"disabled": true
+							},
+							{
+								"key": "accept",
+								"value": "image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+							},
+							{
+								"key": "accept-encoding",
+								"value": "gzip, deflate, br"
+							},
+							{
+								"key": "accept-language",
+								"value": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+							},
+							{
+								"key": "referer",
+								"value": "https://cdn.jsdelivr.net/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/layer.css?v=3.5.1"
+							},
+							{
+								"key": "sec-ch-ua",
+								"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+							},
+							{
+								"key": "sec-ch-ua-mobile",
+								"value": "?0"
+							},
+							{
+								"key": "sec-ch-ua-platform",
+								"value": "\"Windows\""
+							},
+							{
+								"key": "sec-fetch-dest",
+								"value": "image"
+							},
+							{
+								"key": "sec-fetch-mode",
+								"value": "no-cors"
+							},
+							{
+								"key": "sec-fetch-site",
+								"value": "cross-site"
+							},
+							{
+								"key": "user-agent",
+								"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+							}
+						],
+						"url": {
+							"raw": "{{baseURL1}}/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/icon.png",
+							"host": [
+								"{{baseURL1}}"
+							],
+							"path": [
+								"gh",
+								"jinsom",
+								"LightSNS-CDN@1.6.86.14",
+								"extend",
+								"layui",
+								"css",
+								"modules",
+								"layer",
+								"default",
+								"icon.png"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "successfully / 200",
+							"originalRequest": {
+								"method": "GET",
+								"header": [
+									{
+										"key": ":authority",
+										"value": "cdn.jsdelivr.net",
+										"disabled": true
+									},
+									{
+										"key": ":method",
+										"value": "GET",
+										"disabled": true
+									},
+									{
+										"key": ":path",
+										"value": "/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/icon.png",
+										"disabled": true
+									},
+									{
+										"key": ":scheme",
+										"value": "https",
+										"disabled": true
+									},
+									{
+										"key": "accept",
+										"value": "image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+									},
+									{
+										"key": "accept-encoding",
+										"value": "gzip, deflate, br"
+									},
+									{
+										"key": "accept-language",
+										"value": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+									},
+									{
+										"key": "referer",
+										"value": "https://cdn.jsdelivr.net/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/layer.css?v=3.5.1"
+									},
+									{
+										"key": "sec-ch-ua",
+										"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+									},
+									{
+										"key": "sec-ch-ua-mobile",
+										"value": "?0"
+									},
+									{
+										"key": "sec-ch-ua-platform",
+										"value": "\"Windows\""
+									},
+									{
+										"key": "sec-fetch-dest",
+										"value": "image"
+									},
+									{
+										"key": "sec-fetch-mode",
+										"value": "no-cors"
+									},
+									{
+										"key": "sec-fetch-site",
+										"value": "cross-site"
+									},
+									{
+										"key": "user-agent",
+										"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL1}}/gh/jinsom/LightSNS-CDN@1.6.86.14/extend/layui/css/modules/layer/default/icon.png",
+									"host": [
+										"{{baseURL1}}"
+									],
+									"path": [
+										"gh",
+										"jinsom",
+										"LightSNS-CDN@1.6.86.14",
+										"extend",
+										"layui",
+										"css",
+										"modules",
+										"layer",
+										"default",
+										"icon.png"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "text",
+							"header": [
+								{
+									"key": "accept-ranges",
+									"value": "bytes"
+								},
+								{
+									"key": "access-control-allow-origin",
+									"value": "*"
+								},
+								{
+									"key": "access-control-expose-headers",
+									"value": "*"
+								},
+								{
+									"key": "age",
+									"value": "2438264"
+								},
+								{
+									"key": "alt-svc",
+									"value": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+								},
+								{
+									"key": "cache-control",
+									"value": "public, max-age=31536000, s-maxage=31536000, immutable"
+								},
+								{
+									"key": "content-length",
+									"value": "11493"
+								},
+								{
+									"key": "content-type",
+									"value": "image/png"
+								},
+								{
+									"key": "cross-origin-resource-policy",
+									"value": "cross-origin"
+								},
+								{
+									"key": "date",
+									"value": "Tue, 24 May 2022 04:55:05 GMT"
+								},
+								{
+									"key": "etag",
+									"value": "W/\"2ce5-/kfsYXUH6c5fbOesmxeaPJIxiCs\""
+								},
+								{
+									"key": "strict-transport-security",
+									"value": "max-age=31536000; includeSubDomains; preload"
+								},
+								{
+									"key": "timing-allow-origin",
+									"value": "*"
+								},
+								{
+									"key": "vary",
+									"value": "Accept-Encoding"
+								},
+								{
+									"key": "x-cache",
+									"value": "HIT, HIT"
+								},
+								{
+									"key": "x-content-type-options",
+									"value": "nosniff"
+								},
+								{
+									"key": "x-jsd-version",
+									"value": "1.6.86.14"
+								},
+								{
+									"key": "x-jsd-version-type",
+									"value": "version"
+								},
+								{
+									"key": "x-served-by",
+									"value": "cache-fra19177-FRA, cache-nrt18343-NRT"
+								}
+							],
+							"cookie": [],
+							"body": "image/png content type is not supported in the response body"
+						}
+					]
+				},
+				{
+					"name": "yftk.fun/u/186/",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "sec-ch-ua",
+								"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+							},
+							{
+								"key": "Referer",
+								"value": "https://yftk.fun/"
+							},
+							{
+								"key": "sec-ch-ua-mobile",
+								"value": "?0"
+							},
+							{
+								"key": "User-Agent",
+								"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+							},
+							{
+								"key": "sec-ch-ua-platform",
+								"value": "\"Windows\""
+							}
+						],
+						"url": {
+							"raw": "{{baseURL2}}/u/186/",
+							"host": [
+								"{{baseURL2}}"
+							],
+							"path": [
+								"u",
+								"186",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "no response code found",
+							"originalRequest": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "sec-ch-ua",
+										"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Microsoft Edge\";v=\"101\""
+									},
+									{
+										"key": "Referer",
+										"value": "https://yftk.fun/"
+									},
+									{
+										"key": "sec-ch-ua-mobile",
+										"value": "?0"
+									},
+									{
+										"key": "User-Agent",
+										"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53"
+									},
+									{
+										"key": "sec-ch-ua-platform",
+										"value": "\"Windows\""
+									}
+								],
+								"url": {
+									"raw": "{{baseURL2}}/u/186/",
+									"host": [
+										"{{baseURL2}}"
+									],
+									"path": [
+										"u",
+										"186",
+										""
+									]
+								}
+							},
+							"_postman_previewlanguage": "Text",
+							"header": [],
+							"cookie": [],
+							"body": ""
+						}
+					]
+				}
+			],
+			"description": "yftk.fun/"
+		}
+	],
+	"variable": [
+		{
+			"key": "baseURL1",
+			"value": "https://cdn.jsdelivr.net",
+			"type": "any"
+		},
+		{
+			"key": "baseURL2",
+			"value": "https://yftk.fun",
+			"type": "any"
+		}
+	]
+}
